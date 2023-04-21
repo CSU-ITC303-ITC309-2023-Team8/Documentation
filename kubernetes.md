@@ -64,3 +64,7 @@ To see which pods are running:
 To show the Kubernetes Dashboard: 
 
 - `minikube dashboard` 
+
+# Docker Images
+
+The IoTa pllatform uses
